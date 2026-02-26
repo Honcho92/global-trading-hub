@@ -1,0 +1,18 @@
+# Local Data
+data/
+*.json
+*.log
+*.txt
+*.png
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Credentials
+credentials/
+auth.json
