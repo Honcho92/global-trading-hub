@@ -27,5 +27,11 @@ A professional-grade Forex trading dashboard and multi-agent management system b
 ## 🤖 Integrated Agents
 - **Tice (Sniper Mode):** Trend-following institutional strategy using SMC (Smart Money Concepts) and dual-EMA crossovers.
 
+## Related projects
+
+- **[scam-shield](https://github.com/Honcho92/scam-shield)** — Local-first
+  scam detection toolkit: heuristic engine, local LLM judge (Ollama),
+  Telegram bot, and a Chrome extension. Generates FTC-ready report packs.
+
 ## 🛡️ License
 MIT License - Feel free to branch, fork, and win big. WE DO NOT FAIL!
